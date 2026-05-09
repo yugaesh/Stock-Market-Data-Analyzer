@@ -211,107 +211,103 @@ Generated Outputs:
 
 Professional project folder structure created using VS Code.
 
-<<<<<<< HEAD
-![Project Folder Structure](screenshots/01_project_folder_structure.png)
-
+![Project Folder Structure](./screenshots/01_project_folder_structure.png)
 
 ---
 
 ## 2️⃣ Virtual Environment Setup
 
-Python virtual environment successfully activated for project dependency management.
+Python virtual environment successfully activated for dependency management.
 
-![Virtual Environment](screenshots/02_virtual_environment.png)
+![Virtual Environment](./screenshots/02_virtual_environment.png)
 
 ---
 
 ## 3️⃣ Library Installation
 
-Required Python libraries installed for stock market analysis and dashboard development.
+Required Python libraries installed successfully for financial analytics and visualization.
 
-![Library Installation](screenshots/03_library_installation.png)
+![Library Installation](./screenshots/03_library_installation.png)
 
 ---
 
 ## 4️⃣ Stock Data Download
 
-Real-time stock market data downloaded successfully using the Yahoo Finance API.
+Real-time stock market data fetched successfully using the Yahoo Finance API.
 
-![Stock Data Download](screenshots/04_stock_data_download.png)
+![Stock Data Download](./screenshots/04_stock_data_download.png)
 
 ---
 
 ## 5️⃣ Terminal Analysis Output
 
-Terminal output displaying stock analysis results and generated insights.
+Complete terminal execution displaying stock analysis results and generated insights.
 
-![Terminal Output](./screenshots/05_terminal_analysis_output.png)
+![Terminal Analysis Output](./screenshots/05_terminal_analysis_output.png)
 
 ---
 
 ## 6️⃣ Processed Stock Dataset
 
-Processed stock dataset with moving averages and return calculations.
+Processed dataset containing stock prices, moving averages, and daily return calculations.
 
-![Dataset Preview](./screenshots/06_stock_dataset_preview.png)
+![Processed Stock Dataset](./screenshots/06_processed_stock_dataset.png)
 
 ---
 
 ## 7️⃣ Moving Average Analysis Chart
 
-Stock closing price visualization with 20-Day and 50-Day moving averages.
+Visualization of stock closing prices with 20-Day and 50-Day moving averages.
 
-![Moving Average Chart](./screenshots/07_moving_average_chart.png)
+![Moving Average Analysis Chart](./screenshots/07_moving_average_analysis_chart.png)
 
 ---
 
-## 8️⃣ Daily Returns Distribution
+## 8️⃣ Daily Returns Distribution Chart
 
-Distribution analysis of daily stock returns with KDE curve.
+Statistical distribution analysis of daily stock returns with KDE visualization.
 
-![Returns Distribution](./screenshots/08_returns_distribution_chart.png)
+![Daily Returns Distribution](./screenshots/08_daily_returns_distribution_chart.png)
 
 ---
 
 ## 9️⃣ Generated Financial Report
 
-Automatically generated financial report containing key stock insights.
+Automatically generated financial report containing volatility and stock insights.
 
-![Generated Report](./screenshots/09_generated_report.png)
+![Generated Financial Report](./screenshots/09_generated_financial_report.png)
 
 ---
 
 ## 🔟 Output Files
 
-Generated outputs including reports, CSV files, and visualizations.
+Generated project outputs including CSV files, reports, and chart visualizations.
 
-![Outputs Folder](./screenshots/10_outputs_folder.png)
+![Output Files](./screenshots/10_output_files.png)
 
 ---
 
 ## 1️⃣1️⃣ Streamlit Dashboard Home
 
-Interactive Streamlit dashboard home interface.
+Interactive Streamlit dashboard home interface for stock market analysis.
 
-![Dashboard Home](./screenshots/11_streamlit_dashboard_home.png)
+![Streamlit Dashboard Home](./screenshots/11_streamlit_dashboard_home.png)
 
 ---
 
 ## 1️⃣2️⃣ Streamlit Dashboard Analysis
 
-Dashboard showing stock analysis charts and financial metrics.
+Dashboard displaying stock charts, moving averages, and financial metrics.
 
-![Dashboard Analysis](./screenshots/12_streamlit_analysis.png)
-
----
-
-## 1️⃣3️⃣ GitHub Repository
-
-GitHub repository preview with project documentation and files.
-
-![GitHub Repository](./screenshots/13_github_repository.png)
+![Streamlit Dashboard Analysis](./screenshots/12_streamlit_dashboard_analysis.png)
 
 ---
+
+## 1️⃣3️⃣ GitHub Repository Preview
+
+GitHub repository preview containing project files, documentation, and screenshots.
+
+![GitHub Repository Preview](./screenshots/13_github_repository_preview.png)
 
 
 # 📌 Key Financial Concepts Used
