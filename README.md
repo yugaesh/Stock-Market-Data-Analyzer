@@ -211,7 +211,9 @@ Generated Outputs:
 
 Professional project folder structure created using VS Code.
 
+<<<<<<< HEAD
 ![Project Folder Structure](screenshots/01_project_folder_structure.png)
+
 
 ---
 
