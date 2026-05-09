@@ -204,37 +204,38 @@ Generated Outputs:
 ---
 
 ```markdown
+
 # 📷 Screenshots
 
-## 1️⃣ Project Structure
+## 1️⃣ Project Folder Structure
 
-Professional folder structure inside VS Code.
+Professional project folder structure created using VS Code.
 
-![Project Structure](./screenshots/01_project_structure.png)
+![Project Folder Structure](screenshots/01_project_folder_structure.png)
 
 ---
 
 ## 2️⃣ Virtual Environment Setup
 
-Python virtual environment activated successfully.
+Python virtual environment successfully activated for project dependency management.
 
-![Virtual Environment](./screenshots/02_virtual_environment.png)
+![Virtual Environment](screenshots/02_virtual_environment.png)
 
 ---
 
 ## 3️⃣ Library Installation
 
-Installed Python libraries required for financial analysis.
+Required Python libraries installed for stock market analysis and dashboard development.
 
-![Library Installation](./screenshots/03_library_installation.png)
+![Library Installation](screenshots/03_library_installation.png)
 
 ---
 
 ## 4️⃣ Stock Data Download
 
-Real-time stock market data fetching using Yahoo Finance API.
+Real-time stock market data downloaded successfully using the Yahoo Finance API.
 
-![Stock Data Download](./screenshots/04_stock_data_download.png)
+![Stock Data Download](screenshots/04_stock_data_download.png)
 
 ---
 
