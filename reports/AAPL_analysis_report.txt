@@ -1,0 +1,36 @@
+
+=========================================
+STOCK MARKET ANALYSIS REPORT
+=========================================
+
+Ticker Symbol:
+AAPL
+
+Date Range:
+2023-01-01 to 2024-01-01
+
+-----------------------------------------
+
+Highest Stock Price:
+197.57
+
+Lowest Stock Price:
+122.21
+
+Average Closing Price:
+170.35
+
+Volatility:
+0.0126
+
+-----------------------------------------
+
+Project Insights:
+
+1. Moving averages help identify trends.
+
+2. Daily return measures stock performance.
+
+3. Volatility indicates stock risk level.
+
+=========================================
