@@ -208,105 +208,105 @@ Generated Outputs:
 
 ## 1️⃣ Project Structure
 
-Shows the professional folder organization of the project inside VS Code.
+Professional folder structure inside VS Code.
 
-![Project Structure](screenshots/01_project_structure.png)
+![Project Structure](./screenshots/01_project_structure.png)
 
 ---
 
 ## 2️⃣ Virtual Environment Setup
 
-Demonstrates successful activation of the Python virtual environment.
+Python virtual environment activated successfully.
 
-![Virtual Environment](screenshots/02_virtual_environment.png)
+![Virtual Environment](./screenshots/02_virtual_environment.png)
 
 ---
 
 ## 3️⃣ Library Installation
 
-Displays all installed project dependencies required for stock market analysis.
+Installed Python libraries required for financial analysis.
 
-![Library Installation](screenshots/03_library_installation.png)
+![Library Installation](./screenshots/03_library_installation.png)
 
 ---
 
 ## 4️⃣ Stock Data Download
 
-Shows real-time stock market data being fetched using the Yahoo Finance API.
+Real-time stock market data fetching using Yahoo Finance API.
 
-![Stock Data Download](screenshots/04_stock_data_download.png)
+![Stock Data Download](./screenshots/04_stock_data_download.png)
 
 ---
 
 ## 5️⃣ Terminal Analysis Output
 
-Displays the complete stock analysis execution and generated financial insights.
+Terminal output displaying stock analysis results and generated insights.
 
-![Terminal Output](screenshots/05_terminal_analysis_output.png)
+![Terminal Output](./screenshots/05_terminal_analysis_output.png)
 
 ---
 
 ## 6️⃣ Processed Stock Dataset
 
-Preview of the cleaned and processed stock dataset with calculated financial metrics.
+Processed stock dataset with moving averages and return calculations.
 
-![Dataset Preview](screenshots/06_stock_dataset_preview.png)
+![Dataset Preview](./screenshots/06_stock_dataset_preview.png)
 
 ---
 
 ## 7️⃣ Moving Average Analysis Chart
 
-Visualization of stock closing prices with 20-Day and 50-Day moving averages for trend analysis.
+Stock closing price visualization with 20-Day and 50-Day moving averages.
 
-![Moving Average Chart](screenshots/07_moving_average_chart.png)
+![Moving Average Chart](./screenshots/07_moving_average_chart.png)
 
 ---
 
 ## 8️⃣ Daily Returns Distribution
 
-Statistical distribution analysis of daily stock returns with KDE visualization.
+Distribution analysis of daily stock returns with KDE curve.
 
-![Returns Distribution](screenshots/08_returns_distribution_chart.png)
+![Returns Distribution](./screenshots/08_returns_distribution_chart.png)
 
 ---
 
 ## 9️⃣ Generated Financial Report
 
-Automatically generated financial summary report containing key insights and volatility analysis.
+Automatically generated financial report containing key stock insights.
 
-![Generated Report](screenshots/09_generated_report.png)
+![Generated Report](./screenshots/09_generated_report.png)
 
 ---
 
 ## 🔟 Output Files
 
-Displays all generated project outputs including reports, processed CSV files, and visualizations.
+Generated outputs including reports, CSV files, and visualizations.
 
-![Outputs Folder](screenshots/10_outputs_folder.png)
+![Outputs Folder](./screenshots/10_outputs_folder.png)
 
 ---
 
 ## 1️⃣1️⃣ Streamlit Dashboard Home
 
-Interactive Streamlit dashboard interface for stock market analysis.
+Interactive Streamlit dashboard home interface.
 
-![Dashboard Home](screenshots/11_streamlit_dashboard_home.png)
+![Dashboard Home](./screenshots/11_streamlit_dashboard_home.png)
 
 ---
 
 ## 1️⃣2️⃣ Streamlit Dashboard Analysis
 
-Shows complete dashboard analysis with charts, stock metrics, and financial insights.
+Dashboard showing stock analysis charts and financial metrics.
 
-![Dashboard Analysis](screenshots/12_streamlit_analysis.png)
+![Dashboard Analysis](./screenshots/12_streamlit_analysis.png)
 
 ---
 
 ## 1️⃣3️⃣ GitHub Repository
 
-GitHub repository preview containing project structure, documentation, and uploaded files.
+GitHub repository preview with project documentation and files.
 
-![GitHub Repository](screenshots/13_github_repository.png)
+![GitHub Repository](./screenshots/13_github_repository.png)
 
 ---
 
