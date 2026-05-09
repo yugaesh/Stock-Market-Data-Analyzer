@@ -210,7 +210,7 @@ Generated Outputs:
 
 Professional folder structure inside VS Code.
 
-![Project Structure](./screenshots/01_project_structure.png)
+![Project Structure](./screenshots/01_project_folder_structure.png)
 
 ---
 
